@@ -31,7 +31,7 @@ FILE: randomPasswords.py
 USAGE: ./randomPasswords.py  
 DESCRIPTION:
       Generate random words of various length that can be used for passwords
-      Including: This will be split into Easy, Medium, Hard and Extra Hard  
+      Including: This will be split into Easy, Medium, Hard  
 OPTIONS: ---                                                                       
 REQUIREMENTS: ---                                                                  
 BUGS: ---                                                                          
